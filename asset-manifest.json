@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/your-repo-name/static/css/main.c92e2cea.css",
+    "main.js": "/your-repo-name/static/js/main.639dede1.js",
+    "static/media/gg.gif": "/your-repo-name/static/media/gg.aec3dec33a1e285eb2c0.gif",
+    "static/media/loader.gif": "/your-repo-name/static/media/loader.b40fc3d91ff1f4db53e2.gif",
+    "index.html": "/your-repo-name/index.html",
+    "main.c92e2cea.css.map": "/your-repo-name/static/css/main.c92e2cea.css.map",
+    "main.639dede1.js.map": "/your-repo-name/static/js/main.639dede1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c92e2cea.css",
+    "static/js/main.639dede1.js"
+  ]
+}
